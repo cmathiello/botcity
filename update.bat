@@ -1,0 +1,1 @@
+C:\City\BotCLI.bat bot update -version 1.0 -botId TB_MUN_CND_CE_UBAJARA -file C:\Bots\Municipal\CE\TB_MUN_CND_CE_UBAJARA\TB_MUN_CND_CE_UBAJARA.zip -python

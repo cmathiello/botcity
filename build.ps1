@@ -1,0 +1,1 @@
+Compress-Archive -LiteralPath . -DestinationPath "TB_MUN_CND_CE_UBAJARA.zip" -Force
